@@ -589,8 +589,6 @@ section {
 .work .icon-box .icon {
   width: 64px;
   height: 64px;
-  background: #091f40;
-  border-radius: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -601,6 +599,10 @@ section {
 
 .work .icon-box .icon i {
   font-size: 28px;
+}
+
+.work .icon img {
+  height: 100%;
 }
 
 .work .icon-box h4 {
