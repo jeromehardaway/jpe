@@ -635,7 +635,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://res.cloudinary.com/jhardaway/image/upload/v1609130309/vets-coding_d3vory.jpg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
